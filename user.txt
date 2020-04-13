@@ -2,4 +2,7 @@ git flow feature finish user
 git flow feature finish user 1
 git flow feature finish user 2
 
+Checked out new branch feature/user-2 from feature/user
+
+
 Checked out new branch feature/user-1 from feature/user
