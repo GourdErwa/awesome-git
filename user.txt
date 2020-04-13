@@ -1,1 +1,3 @@
 git flow feature finish user
+git flow feature finish user 1
+git flow feature finish user 2
